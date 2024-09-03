@@ -11,5 +11,5 @@ class Dog:
     def get_adopted(self, owner_name):
         self.owner = owner_name
 
-#!/usr/bin/env python3
 
+    
